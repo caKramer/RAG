@@ -21,3 +21,9 @@ Using Google Colab made this easy. Will work locally as well.
   - Included analysis on correctness of the RAG responses
 
 
+## How To
+
+* Download the Rag.ipynb and run locally in your Jupyter Lab/Notebook or run inside Google Colab
+
+
+
